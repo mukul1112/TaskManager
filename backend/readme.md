@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple task management web application built with React. This app allows you to create, update, and delete tasks with editable fields for task title, description, priority, and status. It also includes validation for required fields and provides user feedback when interacting with tasks.
+A simple task management web application built with node. This app allows you to create, update, and delete tasks with editable fields for task title, description, priority, and status. It also includes validation for required fields and provides user feedback when interacting with tasks.
 
 ## Features
 - **Create Tasks**: Add a new task with a title, description, priority, and status.
